@@ -1,0 +1,28 @@
+_repo: The-dead-tryst_68789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+    wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
+description: ''
+gutenberg_issued: '2022-08-19'
+identifiers:
+  gutenberg: '68789'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=inu.30000118222169&view=1up&seq=5&skin=2021
+pgterms:marc905: 20220803194242grant
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :George Routledge and Sons,1883.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The dead tryst
+url: http://www.gutenberg.org/ebooks/68789
